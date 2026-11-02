@@ -1,10 +1,14 @@
 # Sonic ARM64 Fixes
 
+# DISCLAIMER:
+Every package in this repo and all instructions were made by AI (Claude Code). I am not a developer and have no coding skills, I turned to AI in order to fix the issues listed below because I couldn’t find any fixes on the internet. I will report these issues to the competent developers of the Mesa drivers, dxvk layer and the Hedgemodmanager. So that these problems may be permanently fixed for everyone. I do not claim to be the author of these fixes as I merely prompted the AI to find a solution. Unfortunately these patches only work on ArmadaOS (and I assume other similar Linux distros), they do not work on Android via apps such as GameNative. If anyone wants to adapt such fixes to Android, feel free to di so.
+
+
 Fixes for the Hedgehog Engine Sonic games on ARM64 Linux with Steam, Proton and FEX. Tested on a Retroid Pocket 6 (Snapdragon 8 Gen 2, Adreno 740) with ArmadaOS.
 
 **Download:** https://github.com/Graudon-source/sonic-arm64-fixes/releases/tag/final
 
-Each package has an installer and a full guide in English (`README.md`) and Italian (`LEGGIMI.md`).
+Each package has an installer, uninstaller and a full guide in English (`README.md`) and Italian (`LEGGIMI.md`).
 
 | Package | What it fixes | Games |
 |---|---|---|
@@ -25,7 +29,7 @@ Each package has an installer and a full guide in English (`README.md`) and Ital
 | Sonic Forces | Works | Works, Sonic Forces Overclocked | Proton-CachyOS 11 |
 | Sonic X Shadow Generations | Works | Works, 5 mods | Proton-CachyOS 11 |
 | Sonic Origins | Not needed | Works, 6 mods | Proton 11.0-2 (ARM64) |
-| Sonic Frontiers | Works | Not tested on a standard copy yet | |
+| Sonic Frontiers | Works | Not tested on a standard copy yet (the AI says this because I applied a crack to my legitimate Steam copy to remove Denuvo)| |
 
 Only this device has been tested. Please open an issue with your game, device and result.
 
