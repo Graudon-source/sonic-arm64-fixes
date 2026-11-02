@@ -6,7 +6,7 @@ Every package in this repo and all instructions were made by AI (Claude Code). I
 # Description 
 Fixes for the Hedgehog Engine 2 Sonic games on ARM64 Linux with Steam, Proton and FEX. Tested on a Retroid Pocket 6 (Snapdragon 8 Gen 2, Adreno 740) with ArmadaOS.
 
-**Download:** https://github.com/Graudon-source/sonic-arm64-fixes/releases/tag/Initial_Release
+**Download:** https://github.com/Graudon-source/sonic-arm64-fixes/releases/tag/initial_release
 
 Each package has an installer, uninstaller and a full guide in English (`README.md`) and Italian (`LEGGIMI.md`).
 
