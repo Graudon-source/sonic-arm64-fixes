@@ -1,6 +1,6 @@
 # Sonic ARM64 Fixes
 
-# DISCLAIMER:
+# AI DISCLAIMER:
 Every package in this repo and all instructions were made by AI (Claude Code). I am not a developer and have no coding skills, I turned to AI in order to fix the issues listed below because I couldn’t find any fixes on the internet. I will report these issues to the competent developers of the Mesa drivers, dxvk layer and the Hedgemodmanager. So that these problems may be permanently fixed for everyone. I do not claim to be the author of these fixes as I merely prompted the AI to find a solution. Unfortunately these patches only work on ArmadaOS (and I assume other similar Linux distros), they do not work on Android via apps such as GameNative. If anyone wants to adapt such fixes to Android, feel free to do so.
 
 # Description 
