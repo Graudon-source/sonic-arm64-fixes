@@ -54,6 +54,7 @@ Each package has `uninstall.sh`, so you can remove a fix once DXVK, Mesa or Hedg
 - Hedge Mod Manager: https://github.com/hedge-dev/HedgeModManager/issues/153
 
 ![Black lighting before and after](black-lighting-before-after.jpg)
+![Forces speckles glitch before and after](forces-speckles-before-after.jpg)
 
 ## Licence
 
