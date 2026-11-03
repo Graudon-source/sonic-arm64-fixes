@@ -46,12 +46,12 @@ Each package has `uninstall.sh`, so you can remove a fix once DXVK, Mesa or Hedg
 
 ## Upstream reports
 
-- DXVK: link to be added
-- Mesa (Turnip): link to be added
-- ArmadaOS: link to be added
-- Hedge Mod Manager: link to be added
+- DXVK: https://github.com/doitsujin/dxvk/issues/6023
+- Mesa (Turnip): https://gitlab.freedesktop.org/mesa/mesa/-/work_items/16766
+- ArmadaOS: https://github.com/armada-os/armada/issues/838, https://github.com/armada-os/armada/issues/837
+- Hedge Mod Manager: https://github.com/hedge-dev/HedgeModManager/issues/153
 
-![Black lighting before and after](images/black-lighting-before-after.jpg)
+![Black lighting before and after](black-lighting-before-after.jpg)
 
 ## Licence
 
