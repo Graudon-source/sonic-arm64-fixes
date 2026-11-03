@@ -30,6 +30,7 @@ Each package has an installer, uninstaller and a full guide in English (`README.
 | Sonic X Shadow Generations | Works | Works, 5 mods | Proton-CachyOS 11 (ARM64)|
 | Sonic Origins | Not needed | Works, 6 mods | Proton 11.0-2 (ARM64) |
 | Sonic Frontiers | Works | Not tested on a standard copy yet (the AI says this because I applied a crack to my legitimate Steam copy to remove Denuvo)| Proton-CachyOS 11 | 
+
 Note: The Hedgemodmanager fix for Sonic Frontiers, Sonic Forces and Shadow Generations only works with Proton-CachyOS 11 (ARM64), the one for Sonic Origins only works with Proton 11.0-2 (ARM64) instead.
 
 Only this device has been tested. Please open an issue with your game, device and result.
