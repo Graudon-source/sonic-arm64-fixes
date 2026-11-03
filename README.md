@@ -1,7 +1,7 @@
 # Sonic ARM64 Fixes
 
 # AI DISCLAIMER:
-Every package and instruction in this repo was made by AI (Claude Code). I am not a developer and have no coding skills, I turned to AI in order to fix the issues listed below because I couldn’t find any fixes on the internet. I will report these issues to the competent developers of the Mesa drivers, dxvk layer and the Hedgemodmanager. So that these problems may be permanently fixed for everyone. I do not claim to be the author of these fixes as I merely prompted the AI to find a solution. Unfortunately these patches only work on ArmadaOS (and I assume other similar Linux distros), they do not work on Android via apps such as GameNative. If anyone wants to adapt such fixes to Android, feel free to do so.
+Every package and instruction in this repo was made by AI (Claude Code). I am not a developer and have no coding skills, I turned to AI in order to fix the issues listed below because I couldn’t find any fixes on the internet. I reported these issues to the competent developers of the Mesa drivers, dxvk layer and the Hedgemodmanager. So that these problems may be permanently fixed for everyone. I do not claim to be the author of these fixes as I merely prompted the AI to find a solution. Unfortunately these patches only work on ArmadaOS (and I assume other similar Linux distros), they do not work on Android via apps such as GameNative. If anyone wants to adapt such fixes to Android, feel free to do so.
 
 # Description 
 Fixes for the Hedgehog Engine 2 Sonic games on ARM64 Linux with Steam, Proton and FEX. Tested on a Retroid Pocket 6 (Snapdragon 8 Gen 2, Adreno 740) with ArmadaOS.
@@ -26,10 +26,11 @@ Each package has an installer, uninstaller and a full guide in English (`README.
 
 | Game | Lighting fix | Mods | Proton used for mods |
 |---|---|---|---|
-| Sonic Forces | Works | Works, Sonic Forces Overclocked | Proton-CachyOS 11 |
-| Sonic X Shadow Generations | Works | Works, 5 mods | Proton-CachyOS 11 |
+| Sonic Forces | Works | Works, Sonic Forces Overclocked | Proton-CachyOS 11 (ARM64)|
+| Sonic X Shadow Generations | Works | Works, 5 mods | Proton-CachyOS 11 (ARM64)|
 | Sonic Origins | Not needed | Works, 6 mods | Proton 11.0-2 (ARM64) |
-| Sonic Frontiers | Works | Not tested on a standard copy yet (the AI says this because I applied a crack to my legitimate Steam copy to remove Denuvo)| |
+| Sonic Frontiers | Works | Not tested on a standard copy yet (the AI says this because I applied a crack to my legitimate Steam copy to remove Denuvo)| Proton-CachyOS 11 | 
+Note: The Hedgemodmanager fix for Sonic Frontiers, Sonic Forces and Shadow Generations only works with Proton-CachyOS 11 (ARM64), the one for Sonic Origins only works with Proton 11.0-2 (ARM64) instead.
 
 Only this device has been tested. Please open an issue with your game, device and result.
 
